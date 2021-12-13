@@ -1,2 +1,2 @@
 # Projet-Data-mining-machine-learning-
-Notre base de données est la base de données de credit scoring , tout au long de ce projet, nous essayons de classer les clients en fonction de leur solvabilité en utilisant des méthodes d'apprentissage automatique (régression linéaire, arbre de décision, forêt aléatoire et svm).
+Tout au long de ce projet, nous allons utiliser la base de données de "credit scoring". Nous essayons de classer les clients en fonction de leur solvabilité (solvable ou non solvable ) en utilisant des méthodes d'apprentissage automatique (régression logistique, arbre de décision, forêt aléatoire et svm).
